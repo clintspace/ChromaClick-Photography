@@ -143,7 +143,7 @@
   --fg-colored-link-warning-hover-color: #900909;
   --fg-danger: #7F0707;
   /* ------------------------------ Colored Link ------------------------------ */
-  --fg-colored-link-danger-hover-color: #ab401e;
+  --fg-colored-link-danger-hover-color: #590202;
   --fg-light: #E5E5E5;
   /* ------------------------------ Colored Link ------------------------------ */
   --fg-colored-link-light-hover-color: #eaeaea;
@@ -248,7 +248,7 @@
   --fg-alert-danger-background: #f7dcd3;
   --fg-alert-danger-border-color: #f3cbbe;
   --fg-alert-danger-color: #803016;
-  --fg-alert-danger-link-color: #ab401e;
+  --fg-alert-danger-link-color: #590202;
   /* ------------------------------- List Group ------------------------------- */
   --fg-list-group-item-danger-background: #f7dcd3;
   --fg-list-group-item-danger-color: #803016;
@@ -4465,18 +4465,18 @@ textarea.form-control-lg {
 .btn-danger:hover {
   color: #fff;
   background-color: #b6441f;
-  border-color: #ab401e;
+  border-color: #590202;
 }
 .btn-check:focus + .btn-danger, .btn-danger:focus {
   color: #fff;
   background-color: #b6441f;
-  border-color: #ab401e;
+  border-color: #590202;
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 0 0 rgba(220, 106, 70, 0.5);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 0 0 rgba(220, 106, 70, 0.5);
 }
 .btn-check:checked + .btn-danger, .btn-check:active + .btn-danger, .btn-danger:active, .btn-danger.active, .show > .btn-danger.dropdown-toggle {
   color: #fff;
-  background-color: #ab401e;
+  background-color: #590202;
   border-color: #a13c1c;
 }
 .btn-check:checked + .btn-danger:focus, .btn-check:active + .btn-danger:focus, .btn-danger:active:focus, .btn-danger.active:focus, .show > .btn-danger.dropdown-toggle:focus {
