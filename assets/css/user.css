@@ -1,2 +1,10 @@
 /* prettier-ignore */
 /*# sourceMappingURL=user.css.map */
+
+body {
+    background-color: #000 !important;
+}
+
+.h1-theme h1 {
+    color: white !important;
+}
