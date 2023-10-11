@@ -22970,7 +22970,7 @@ pre[class*=language-] {
 
 .form-floating>label {
   color: #5C5C5C;
-  padding: 1rem 0;
+  padding: 0 0;
 }
 
 .form-floating>.form-control:focus+label {
@@ -22978,6 +22978,15 @@ pre[class*=language-] {
 }
 
 .form-fotogency-header-control {
+  background-color: transparent;
+  background-clip: padding-box;
+  border: 0 solid #fff;
+  border-bottom: 1px solid #fff;
+  border-radius: 0;
+  color: #fff;
+}
+
+.form-fotogency-header-control-2 {
   background-color: transparent;
   background-clip: padding-box;
   border: 0 solid #000;
@@ -22989,8 +22998,15 @@ pre[class*=language-] {
 .form-fotogency-header-control:hover,
 .form-fotogency-header-control:focus {
   background-color: transparent;
-  color: #5C5C5C;
-  border-bottom: 1px solid #A61010;
+  color: yellow;
+  border-bottom: 1px solid yellow;
+}
+
+.form-fotogency-header-control-2:hover,
+.form-fotogency-header-control-2:focus {
+  background-color: transparent;
+  color: black;
+  border-bottom: 1px solid black;
 }
 
 .popover {
