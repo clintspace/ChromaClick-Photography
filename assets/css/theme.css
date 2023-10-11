@@ -9886,7 +9886,7 @@ textarea.form-control-lg {
 }
 
 .bg-footer-black {
-  background-color: #1B1B1B !important;
+  background-color: #F8F8F8 !important;
 }
 
 .bg-black {
@@ -21956,10 +21956,10 @@ code[class*=language-], pre[class*=language-] {
 .form-fotogency-header-control {
   background-color: transparent;
   background-clip: padding-box;
-  border: 0 solid var(--fg-input-border-color);
-  border-bottom: 1px solid #F9F9F9;
+  border: 0 solid #000;
+  border-bottom: 1px solid #000;
   border-radius: 0;
-  color: #5C5C5C;
+  color: #000;
 }
 .form-fotogency-header-control:hover, .form-fotogency-header-control:focus {
   background-color: transparent;
